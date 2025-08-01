@@ -7,7 +7,7 @@ from openai.openai_object import OpenAIObject
 from tqdm import tqdm
 
 # 配置区域
-API_KEY          = "sk-vljLA8erfcwzkK2F1aCfEb82040b4fDfB533A427Ce645647"
+API_KEY          = ""
 BASE_URL         = "https://llm-oneapi.bytebroad.com.cn/v1"
 BASE_MODEL       = "Qwen/Qwen2.5-VL-32B-Instruct"
 TRAIN_FILE_JSONL = "lora_medical.jsonl"    # 同目录
